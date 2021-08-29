@@ -1,5 +1,5 @@
 # Nermin Festa
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlrikJonasLove&count_private=true&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nermin-del&count_private=true&show_icons=true&theme=tokyonight)
 ](https://github.com/Nermin-del/github-readme-stats)
 
 ##
